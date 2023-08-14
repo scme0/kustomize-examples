@@ -13,7 +13,6 @@ commonLabels:
 patchesStrategicMerge:
 - deployment_replicas.yaml
 - deployment_env.yaml
-- deployment_volume.yaml
 
 
 configMapGenerator:
