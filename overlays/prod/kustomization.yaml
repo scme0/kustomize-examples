@@ -4,7 +4,7 @@ kind: Kustomization
 bases:
 - ../../base
 
-namespace: my-app-prod
+namespace: prod
 nameSuffix: -prod
 
 commonLabels:
